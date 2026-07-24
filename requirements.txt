@@ -1,5 +1,4 @@
 pyTelegramBotAPI
 requests
-psutil
-typing-extensions
-PyGithub
+python-dotenv
+Pillow
